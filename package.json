@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "hyperx-cloud-flight-wireless": "github:srn/hyperx-cloud-flight-wireless"
+  }
+}
